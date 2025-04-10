@@ -67,7 +67,7 @@ This project was created to:
 If provided as a ZIP:
 
 1.Visit the GitHub repo
-👉 https://github.com/yourusername/youtube-clone-project (replace with actual repo if hosted)
+👉 https://github.com/jay-mali/youtube-clone.git
 
 2.Click the green “Code” button → Click Download ZIP
 3.📂 Extract to Desktop or any folder
